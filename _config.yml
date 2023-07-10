@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "**개발**은 **사람**이 한다."
   location         : "대한민국, 부산광역시 남구"
-  email            : "overflowcheshirecat@gmail.com"
+  email            : 
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
